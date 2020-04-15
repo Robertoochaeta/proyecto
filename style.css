@@ -1,0 +1,10 @@
+h1{
+font-size: 4.8rem;
+font-family: sans-serif;
+}
+.site-header h1{
+	background-color: white;
+	background-position: center center;
+	text-align: center;
+	font-weight: 400; 
+}
