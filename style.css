@@ -215,3 +215,8 @@ html {
 .site-footer p span{
     font-weight: 700;
 }
+.text{
+  text-transform: uppercase;
+  color: red;
+
+}
