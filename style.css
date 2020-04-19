@@ -175,6 +175,8 @@ html {
 .entrada-blog{
  margin-bottom: 2rem;
  border-bottom: 1px solid #e1e1e1;
+ background-color: red;
+ text-transform: uppercase; 
 }
 .entrada-blog:last-of-type{
     border: none;
