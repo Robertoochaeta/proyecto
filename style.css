@@ -179,7 +179,11 @@ html {
  text-transform: uppercase; 
 }
 .entrada-blog:last-of-type{
+  background-color: black;
     border: none;
+    text-shadow: 2px 1px 10px blue;
+    color: white;
+
 }
 /* Cursos Sidebar */
 .cursos-lista{
